@@ -1,6 +1,4 @@
-
 from turtle import *
-
 import turtle
 
 colors = ['red','yellow','green','purple','blue','orange']
